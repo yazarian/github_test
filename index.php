@@ -18,6 +18,7 @@
 </head>
 
  <h1> vivement le mechoui ce midi </h1>
+ <h2> Paragraphe </h2>
  </body>
 
 </html>
